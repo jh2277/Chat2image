@@ -25,7 +25,7 @@
 
 ## Reference
 
-- [My previos video using ChatGPT and Midjourney v4](https://youtu.be/sIE_6EtFVpE)
+- [ChatGPT and Midjourney v4](https://youtu.be/sIE_6EtFVpE)
 - [ChatGPT API](https://platform.openai.com/docs/guides/chat) by OpenAI
 - [Dreamlike Photoreal 2.0](https://huggingface.co/dreamlike-art/dreamlike-photoreal-2.0) by [Dreamlike Art](https://dreamlike.art/)
 
