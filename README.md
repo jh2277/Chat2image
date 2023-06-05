@@ -8,12 +8,12 @@
   <img width="400" src="https://github.com/jh2277/Chat2image/assets/96563287/970d667d-f046-45e3-a02a-0175b1a821db" alt="Chat2image_Example">
 </p>
 
-<img width="600" alt="Chat2image_chat_2" src="https://github.com/jh2277/Chat2image/assets/96563287/a9be61f3-8e2f-4bdd-a1f8-3f95356c6442">
+<img width="820" alt="Chat2image_chat_2" src="https://github.com/jh2277/Chat2image/assets/96563287/a9be61f3-8e2f-4bdd-a1f8-3f95356c6442">
 
 
 <br></br>
 
-<img width="600" alt="Chat2image_result" src="https://github.com/jh2277/Chat2image/assets/96563287/14928dce-b527-413b-8022-3c0af3fdceeb">
+<img width="820" alt="Chat2image_result" src="https://github.com/jh2277/Chat2image/assets/96563287/14928dce-b527-413b-8022-3c0af3fdceeb">
 
 ## Dependency
 
