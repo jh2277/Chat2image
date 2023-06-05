@@ -4,16 +4,16 @@
 
   챗봇을 사용하여 채팅으로 상상하게하고 그림으로 그리기.
 
-![Chat2image_Example](https://github.com/jh2277/Chat2image/assets/96563287/970d667d-f046-45e3-a02a-0175b1a821db)
+<p align="left">
+  <img width="400" src="https://github.com/jh2277/Chat2image/assets/96563287/970d667d-f046-45e3-a02a-0175b1a821db" alt="Chat2image_Example">
+</p>
+
+<img width="600" alt="Chat2image_chat_2" src="https://github.com/jh2277/Chat2image/assets/96563287/a9be61f3-8e2f-4bdd-a1f8-3f95356c6442">
 
 
+<br></br>
 
-<img width="863" alt="Chat2image_chat (2)" src="https://github.com/jh2277/Chat2image/assets/96563287/1d9c669a-e959-4f23-9b3b-59da005dde18">
-
-
-
-<img width="831" alt="Chat2image_result" src="https://github.com/jh2277/Chat2image/assets/96563287/1a123bf8-ff79-4758-8354-92e0dcd88c9e">
-
+<img width="600" alt="Chat2image_result" src="https://github.com/jh2277/Chat2image/assets/96563287/14928dce-b527-413b-8022-3c0af3fdceeb">
 
 ## Dependency
 
